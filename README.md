@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @me-bimosh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 me-bimosh/me-bimosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
